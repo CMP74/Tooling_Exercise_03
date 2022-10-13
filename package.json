@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.135.0",
+    "web-ifc-viewer": "^1.0.213"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.0"
+  }
 }
